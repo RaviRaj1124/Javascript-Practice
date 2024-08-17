@@ -1,0 +1,31 @@
+/*
+operators in JS
+
+1. Arithmetic
+2. Logical
+3. Comparison
+4. Logical
+5. Bitwise
+*/
+
+//Arithmetic Operators ->
+
+let x = 10;
+let y = 7;
+
+console.log(x + y); //Addition
+console.log(x - y); //substraction
+console.log(x / y); //Multiplication
+console.log(x * y); //Division
+console.log(x % y); //Modulus
+console.log(x ** y); //Expontiation
+
+//increment operator
+
+console.log(x++);
+console.log(x);
+
+//Decrement Operators
+console.log(y--);
+console.log(y);
+
