@@ -39,3 +39,17 @@ a = a + 1;
 a+=1;
 
 console.log(a);
+
+
+//comparision operator ->
+let r = 10;
+
+// relational operators
+console.log(r > 0);
+console.log(r >= 10);
+console.log(r < 11);
+console.log(r <= 10);
+
+//eqality 
+console.log(r === 2);
+console.log(r !== 2);
