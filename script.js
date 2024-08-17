@@ -73,3 +73,11 @@ msg("Raviraj",'Shinge');
 msg("Ashish",'Agam');
 msg("Kuldeep",'Lagade');
 msg("Biresh",'Khandekar');
+
+//calculating values
+
+function square (num){
+    return num * num;
+}
+
+console.log(square(2));
