@@ -29,3 +29,13 @@ console.log(x);
 console.log(y--);
 console.log(y);
 
+
+
+// Assignment Operators ->
+
+let a = 10;
+
+a = a + 1;
+a+=1;
+
+console.log(a);
