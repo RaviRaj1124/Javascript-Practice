@@ -53,3 +53,12 @@ console.log(r <= 10);
 //eqality 
 console.log(r === 2);
 console.log(r !== 2);
+
+
+//Strict equality operator (same type + same value)
+let t = 1;
+console.log(t === 1);
+
+
+//Loose equality operator
+console.log(t == 1);
